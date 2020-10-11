@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "env/bin/python3",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "files.trimFinalNewlines": true,
+    "python.formatting.provider": "black",
+    "editor.wordWrap": "on",
+    "python.linting.flake8Enabled": true,
+    "python.linting.mypyEnabled": true,
+    "python.testing.pytestEnabled": true,
+    
+}
